@@ -44,4 +44,4 @@ public class MainActivity extends AppCompatActivity {
             Log.i("MainActivityLife", "调用onRestroy()");
         }
 }
-![]()
+![](https://github.com/songge186/images/blob/master/activitylive.jpg?raw=true)
